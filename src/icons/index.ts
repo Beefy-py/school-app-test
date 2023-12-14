@@ -1,0 +1,9 @@
+export { default as bulb } from "./bulb";
+export { default as deviceTvOld } from "./deviceTvOld";
+export { default as school } from "./school";
+export { default as circleNumber1 } from "./circleNumber1";
+export { default as circleNumber2 } from "./circleNumber2";
+export { default as circleNumber3 } from "./circleNumber3";
+export { default as circleNumber4 } from "./circleNumber4";
+export { default as circleNumber5 } from "./circleNumber5";
+export { default as circleNumber6 } from "./circleNumber6";
